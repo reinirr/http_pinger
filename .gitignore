@@ -1,0 +1,33 @@
+# Бинарные файлы
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Кэш Go
+/bin/
+/vendor/
+/pkg/
+
+# Логи и временные файлы
+*.log
+log.txt
+
+# IDE JetBrains (GoLand и другие)
+.idea/
+*.iml
+
+# EditorConfig временные
+*.orig
+
+# Cursor (AI IDE от OpenAI)
+.cursor/
+cursor.json
+cursor.lock
+
+# OS system files
+.DS_Store
+Thumbs.db
