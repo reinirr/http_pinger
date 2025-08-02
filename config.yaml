@@ -1,0 +1,7 @@
+
+interval_pulling: 5
+
+http_timeout: 30        # Общий таймаут для HTTP запроса
+connection_timeout: 10   # Таймаут установки соединения
+read_timeout: 10         # Таймаут чтения ответа
+write_timeout: 10        # Таймаут записи запроса
